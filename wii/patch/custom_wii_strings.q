@@ -1,0 +1,8 @@
+mod_menu_text = "MOD MENU"
+modifier_text = "Modifiers"
+no_fail_text = "No Fail"
+unlock_all_text = "Unlock All"
+show_fps_text = "Show FPS"
+black_background_text = "Black Background"
+allowcontroller_text = "Use Pad as Instrument"
+debug_mode_text = "Debug Mode"

@@ -1,0 +1,7 @@
+theviolation_name_text = "The Violation"
+theviolation_artist_text = "\LFleshgod Apocalypse"
+2011_year_text = "\L, 2011"
+unesourieverte_text = "Une Souris Verte"
+2hourstest_text = "2 Hours Test"
+masqueradeofhate_text = "MASQUERADE OF HATE"
+mysong31_text = "My Song 31"
